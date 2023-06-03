@@ -1,0 +1,7 @@
+*/.ipynb_checkpoints/
+*/temp
+*/checkpoints/
+*/*.png
+*.txt
+*.pyc
+*.graphml
